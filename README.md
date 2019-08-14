@@ -1,2 +1,0 @@
-# eremitk
-domínio
